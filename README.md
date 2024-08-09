@@ -6,4 +6,5 @@ So far, this repository contains:
 - Area Codes mapping to regions and subregions (by country) from the UN.
 
 Countries Represented in the Coffee Dataset, by Region
+
 <img width="1128" alt="Screen Shot 2024-08-09 at 11 52 56 AM" src="https://github.com/user-attachments/assets/30d69ce1-26cd-42e8-8409-1d46bc3ffc1a">
